@@ -7,7 +7,7 @@
 Calendário
 </h1>
 
-<p align="center">É um simples calensário
+<p align="center">É um simples calendário
 </p>
 
 <p align="center">
